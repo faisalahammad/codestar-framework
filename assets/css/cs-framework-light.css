@@ -153,6 +153,12 @@
   right: 32px;
 }
 
+.cs-group-content .cs-field-upload .button {
+  position: absolute;
+  top: 24px;
+  right: 22px;
+}
+
 /* Seperator */
 .cs-framework .cs-nav .cs-seperator {
   color: #888;
